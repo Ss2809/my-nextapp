@@ -26,7 +26,7 @@ export default function AboutMe() {
         <div className="flex-1 flex flex-col gap-6">
           <h2 className="text-3xl font-bold text-blue-900">About Me</h2>
           <p className="text-blue-800 leading-relaxed">
-            Hi, I'm John Doe, a professional photographer with over 8 years of experience in capturing breathtaking landscapes and memorable portraits. I specialize in storytelling through my lens, creating moments that last forever.
+            Hi, I'm Sushil, a professional photographer with over 8 years of experience in capturing breathtaking landscapes and memorable portraits. I specialize in storytelling through my lens, creating moments that last forever.
           </p>
 
           <div className="bg-gray-100 p-4 rounded-xl shadow-md">
